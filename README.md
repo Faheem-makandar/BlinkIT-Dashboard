@@ -1,5 +1,5 @@
 # BlinkIT-Dashboard
-🛒 Blinkit Sales Performance Dashboard
+ Blinkit Sales Performance Dashboard
 
  1. BlinkIt Dashboard 
 Blinkit Analytics: Retail Sales Insights Dashboard* 
@@ -15,11 +15,11 @@ The Blinkit Dashboard is an analytical Power BI report developed to visualize an
 3. Tech Stack  
 The dashboard was built using the following tools and technologies:
 
-- 📊 Power BI Desktop – Main visualization platform used for dashboard creation.  
-- 🔄 Power Query – Data transformation, cleaning, and preparation for analysis.  
-- 🧮 DAX (Data Analysis Expressions) – Used for KPIs, measures, and dynamic calculations.  
-- 🔗 Data Modeling – Relationships established among multiple tables (items, outlets, and sales).  
-- 📁 Excel / CSV Data Source – Raw sales and outlet data used for analysis.  
+-  Power BI Desktop – Main visualization platform used for dashboard creation.  
+-  Power Query – Data transformation, cleaning, and preparation for analysis.  
+-  DAX (Data Analysis Expressions) – Used for KPIs, measures, and dynamic calculations.  
+-  Data Modeling – Relationships established among multiple tables (items, outlets, and sales).  
+-  Excel / CSV Data Source – Raw sales and outlet data used for analysis.  
 
 ---
 
@@ -55,11 +55,11 @@ The dashboard was built using the following tools and technologies:
 The Blinkit Sales Dashboard provided critical visibility into sales trends and outlet performance, enabling leadership to make data-backed operational and marketing decisions.  
 
 Key business outcomes include:  
-- 📈Improved Sales Strategy: Identified high-performing outlets and categories, allowing better stock management and targeted promotions.  
-- 💰Revenue Optimization: Insights from category-wise and outlet-type performance helped optimize inventory allocation, reducing unsold stock and boosting profitability.  
-- 🧠Data-Driven Decisions:Enabled managers to shift from intuition-based to fact-based decision-making using real-time data visibility.  
-- 👥Enhanced Customer Experience: Understanding item ratings and preferences led to improved product assortment and customer satisfaction.  
-- ⚙️Operational Efficiency:Outlet performance analysis supported process improvements and performance benchmarking across regions.  
+- Improved Sales Strategy: Identified high-performing outlets and categories, allowing better stock management and targeted promotions.  
+- Revenue Optimization: Insights from category-wise and outlet-type performance helped optimize inventory allocation, reducing unsold stock and boosting profitability.  
+- Data-Driven Decisions:Enabled managers to shift from intuition-based to fact-based decision-making using real-time data visibility.  
+- Enhanced Customer Experience: Understanding item ratings and preferences led to improved product assortment and customer satisfaction.  
+- Operational Efficiency:Outlet performance analysis supported process improvements and performance benchmarking across regions.  
 
 ---
 
